@@ -1,6 +1,8 @@
 Template UI
 ===========
 
+[![Join the chat at https://gitter.im/azee/template-ui](https://badges.gitter.im/azee/template-ui.svg)](https://gitter.im/azee/template-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A template to create one page Java Script UI based on BackBone.
 Best use with REST API (github.com/azee/template-api)
 
